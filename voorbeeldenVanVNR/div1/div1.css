@@ -6,19 +6,19 @@ body {
 }
 
 #container {
-    margin: 2%;
-    border: 1px dashed #AAA;    
+    margin: 7%;
+    border: 1px dashed #f4f4f5;    
 }
 
 #hoofdpagina {
     display: flex;
-    width: 65%;
-    border: 1px dashed black;
+    width: 69%;
+    border: 1px dashed rgb(255, 251, 251);
 }
 
 #links {
     width: 70%;
-    background-color: lightsteelblue;
+    background-color: rgb(250, 251, 253);
     padding: 5% 2% 0% 2%;
 }
 
